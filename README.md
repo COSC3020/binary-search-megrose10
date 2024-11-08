@@ -17,6 +17,7 @@ https://sebhastian.com/javascript-console-input/
 https://www.geeksforgeeks.org/javascript-arrays/
 https://www.geeksforgeeks.org/javascript-arrays/
 https://docs.github.com/en/codespaces/getting-started/quickstart
+https://www.w3schools.com/jsref/jsref_floor.asp
 Reviewed class slides for an illustration on how trees work. 
 
 
