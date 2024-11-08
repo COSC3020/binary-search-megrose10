@@ -11,7 +11,7 @@ function binarySearch(list, element) {
         while(topList >= bottomList) {
           let halfList = Math.floor((bottomList + topList)/2)
           if(element == list[halfList]) {
-            return halfList + 1;
+            return halfList;
           }
           else if(element > list[halfList]) {
             bottomList = halfList + 1;
